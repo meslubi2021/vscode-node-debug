@@ -3411,10 +3411,10 @@ minimatch@3.0.4:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimatch@4.1.1:
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-4.1.1.tgz#88d8172f2e1babcc3e249538b1a46970dfea1300"
-  integrity sha512-9ObkVPP8aM2KWHw1RMAaOoEzHjcqzE1dmEQHAOq9ySRhvVMru1VKqniUs/g6Us4KSwXKk0+uLko6caynDcWEWQ==
+minimatch@4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-4.2.0.tgz#3575202103e58aa0065edbe85cbe5354c77135b6"
+  integrity sha512-ZeCGOh91BdmL6q8aHpnLax/3UXJA+g41DbtDXt7MQ+rNUV7mlpdjxZJGtl5JQ4EYXl1ajRt+rd3p6r234BhZ0w==
   dependencies:
     brace-expansion "^1.1.7"
 
